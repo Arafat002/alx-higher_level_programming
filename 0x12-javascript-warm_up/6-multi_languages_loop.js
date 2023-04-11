@@ -1,6 +1,6 @@
 #!/usr/bin/node
-const languages = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
-languages.forEach((variable) => {
+const myLanguages = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+myLanguages.forEach((variable) => {
 	console.log(variable);
 });
